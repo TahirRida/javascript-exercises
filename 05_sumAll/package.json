@@ -1,0 +1,14 @@
+{
+  "name": "05_sumall",
+  "version": "1.0.0",
+  "description": "a js function to sum all numbers between two arguments(including them)",
+  "main": "sumAll.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "reda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
