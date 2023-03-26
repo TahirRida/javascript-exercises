@@ -1,0 +1,14 @@
+{
+  "name": "07_tempconversion",
+  "version": "1.0.0",
+  "description": "converting from celsius to fahrenheit and vice versa",
+  "main": "tempConversion.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "reda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

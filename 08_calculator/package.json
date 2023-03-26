@@ -1,0 +1,14 @@
+{
+  "name": "08_calculator",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "reda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

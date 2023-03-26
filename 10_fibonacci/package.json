@@ -1,0 +1,14 @@
+{
+  "name": "10_fibonacci",
+  "version": "1.0.0",
+  "description": "fibonacci serie",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "reda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

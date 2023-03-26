@@ -1,0 +1,14 @@
+{
+  "name": "06_leapyears",
+  "version": "1.0.0",
+  "description": "a js function to check wether a year is leap or not",
+  "main": "leapYears.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "reda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
